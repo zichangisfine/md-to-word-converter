@@ -58,6 +58,6 @@ python ./md-to-word/md_to_word.py
 
 ---
 
-### Step 5：解除檔案鎖定
+### Step 4：解除檔案鎖定
 - 確保 sample.docx 可被開啟與編輯
 - 不鎖定 sample.md 與 md_to_word.py
